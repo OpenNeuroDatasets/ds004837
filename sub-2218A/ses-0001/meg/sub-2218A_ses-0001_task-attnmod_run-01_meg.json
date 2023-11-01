@@ -1,0 +1,11 @@
+{
+    "TaskDescription": "My task",
+    "TaskName": "p_five",
+    "Manufacturer": "Neuromag",
+    "SamplingFrequency": 1000,
+    "PowerLineFrequency": 60,
+    "DewarPosition": "Upright",
+    "DigitizedLandmarks": true,
+    "DigitizedHeadPoints": true,
+    "SoftwareFilters": "n/a"
+}
