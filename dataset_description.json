@@ -1,8 +1,8 @@
 {
-    "License": "PD",
-    "Name": "PEPP_MMN_baseline",
+    "License": "CC0",
+    "Name": "Magnetoencephalographic (MEG) Pitch and Duration Mismatch Negativity (MMN) in First-Episode Psychosis",
     "BIDSVersion": "1.1.1",
-        "Authors": [
+    "Authors": [
         "Fran López-Caballero",
         "Mark Curtis",
         "Brian Coffman",
