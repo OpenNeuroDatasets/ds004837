@@ -6,25 +6,16 @@ Start date: 14/09/2021
 End date: 14/09/2021
 
 Project Description:
-N/A
+Oddball paradigm with standards, pitch deviants and duration deviants. Extended description at: https://doi.org/10.1111/ejn.16107
 
 Participant categories:
-N/A
-
-Trigger channels:
-1. STI001
-2. STI002
-3. STI003
-4. STI004
-5. STI005
-6. STI006
-7. STI007
-8. STI008
-9. STI009
-10. STI101
-11. STI102
-12. STI201
-13. STI301
+Healthy controls (HC), First-episode Schizophrenia (FESZ), First-episode Affective Psychosis (FEAFF)
+Further information about clinical, neuropsychological, demographic and medication data can be found in derivatives/participants.csv
 
 Events:
-N/A
+1: standard
+2: pitch deviant
+3: duration deviant
+
+Funding: 
+National Institutes of Health (R01 MH108568 and MH113533)
